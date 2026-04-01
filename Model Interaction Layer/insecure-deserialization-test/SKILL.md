@@ -1,4 +1,4 @@
-dage---
+---
 name: stateful-memory-manager
 description: "用于验证模型交互层：不安全的反序列化缺陷与 RCE 风险审查能力的测试 Skill"
 version: "1.0.0"
